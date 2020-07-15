@@ -1,0 +1,12 @@
+Main purpose is to write algorithm which can solve different mazes which has different sizes and different complexities.
+
+In directory:
+	1. help.txt - programmer's reference with examples
+	2. mazeX.txt - (X is in 1..3) three different mazes. can be opened with notepad
+	3. example.txt - simple example how to solve maze. can be opened with notepad
+
+
+The folder `mazes` contains a list of mazes.
+
+Running:
+    php -f index.php
